@@ -44,7 +44,7 @@ export const testimonials = [
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "../images/me.jpg",
+    image: "https://drive.google.com/file/d/1_OtKtMpKs5G8GFyL6aWY8sCOdXy7-bYq/view?usp=sharing",
     name: "Ruben Alvarez",
     company: "Dooble.io",
   },
