@@ -38,15 +38,15 @@ export const testimonials = [
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
     image: "https://i.ibb.co/TcMx08J/me.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "Flutter",
+    company: "flutterhub1.21.1",
   },
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
     image: "https://i.ibb.co/TcMx08J/me.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "Hub",
+    company: "flutterhub1.21.1",
   },
 ];
 
